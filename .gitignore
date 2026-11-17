@@ -1,0 +1,26 @@
+# Flutter y Dart
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# IntelliJ y Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos temporales
+*.log
+*.class
+*.swp
+.DS_Store
+
+# Archivos privados
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
